@@ -1,0 +1,51 @@
+body{
+  background-color: #fffaf0;
+  height: 4000px;
+}
+.intro{
+  background: linear-gradient(#e66465, #9198e5);
+  height: 625px;
+}
+
+.avatar {
+    background-color: white;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right:47%;
+}
+
+
+.navbar-link {
+      color: white;
+      font-weight: bolder;
+      position: relative;
+      right:-80%;
+      top: 25px;
+      padding-right: 75px;
+      font-size: 23px;
+
+}
+    .navbar-link:hover, .navbar-link:active{
+      color: black;
+    }
+.title-name {
+  text-align: center;
+  position: relative;
+  top: 25%;
+}
+
+h2.name {
+      font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
+      color: #fff;
+      text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+    }
+
+p.name-text{
+      color: #fff;
+      font-family: Verdana, Geneva, sans-serif;
+      font-weight: bolder;
+      font-size: 15px;
+}
